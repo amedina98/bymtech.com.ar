@@ -10,7 +10,7 @@ Set-Location -LiteralPath $repo
 
 $allowedRoots = @(
   'index.html', 'portal-proveedores/', 'assets/', 'form-config.js',
-  'FORMULARIOS.md', 'MAINTENANCE.md', 'scripts/', 'skills/'
+  'FORMULARIOS.md', 'MAINTENANCE.md', 'productos/', 'scripts/', 'skills/'
 )
 $protected = @('firma-email-bymtech.html', 'generador-firma.html', 'logo-email.png')
 

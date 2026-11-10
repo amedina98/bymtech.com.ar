@@ -20,6 +20,7 @@ El script valida el JavaScript embebido, ejecuta `git diff --check`, limita el d
 
 - `index.html`: landing principal, productos y ventanas de detalle.
 - `portal-proveedores/index.html`: landing específica del Portal de Proveedores.
+- `productos/`: landings específicas, estilos y formularios del resto de productos y servicios.
 - `assets/platforms/`: logos y galerías de TOTVS Protheus, Odoo, Metabase y SyncMaster.
 - `assets/portal-proveedores/`: capturas reales del Portal de Proveedores.
 - `assets/portal-clientes/`: video, portada y capturas del Portal de Clientes.
